@@ -1,2 +1,18 @@
 # rimfrost-framework-uppgift-status-provider-interface changelog
 
+Changelog of rimfrost-framework-uppgift-status-provider-interface.
+
+## 0.0.1 (2026-04-13)
+
+### Bug Fixes
+
+-  Add initial version of rimfrost-framework-uppgift-status-provider-interface ([0daf8](https://github.com/Forsakringskassan/rimfrost-framework-uppgift-status-provider-interface/commit/0daf86a90395375) Lars Persson)  
+
+### Other changes
+
+**Initial commit**
+
+
+[c6750](https://github.com/Forsakringskassan/rimfrost-framework-uppgift-status-provider-interface/commit/c6750b30e6b5700) larpersso *2026-04-13 10:10:38*
+
+
