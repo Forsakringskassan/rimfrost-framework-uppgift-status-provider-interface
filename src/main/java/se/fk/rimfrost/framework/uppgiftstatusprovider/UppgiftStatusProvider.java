@@ -1,6 +1,6 @@
 package se.fk.rimfrost.framework.uppgiftstatusprovider;
 
-public interface UppgiftstatusProvider
+public interface UppgiftStatusProvider
 {
    String getPlaneradId();
 
