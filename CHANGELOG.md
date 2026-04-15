@@ -2,6 +2,12 @@
 
 Changelog of rimfrost-framework-uppgift-status-provider-interface.
 
+## 0.0.2 (2026-04-15)
+
+### Bug Fixes
+
+-  Rename UppgiftstatusProvider to UppgiftStatusProvider ([710d6](https://github.com/Forsakringskassan/rimfrost-framework-uppgift-status-provider-interface/commit/710d6c8f9c52e9d) Lars Persson)  
+
 ## 0.0.1 (2026-04-13)
 
 ### Bug Fixes
